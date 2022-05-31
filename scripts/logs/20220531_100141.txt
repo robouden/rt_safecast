@@ -1,0 +1,9 @@
+{"longitude":"139.742","latitude":"35.6617","device_id":"100141","value":"24","unit":"cpm","height":"100","devicetype_id":"Pointcast V1","captured_at":"2022-05-31T08:49:55Z"}
+{"id":201539764,"user_id":759,"value":24.0,"unit":"cpm","location_name":null,"device_id":100141,"original_id":201539764,"measurement_import_id":null,"captured_at":"2022-05-31T08:49:55.000Z","height":100,"devicetype_id":"Pointcast V1","sensor_id":null,"station_id":null,"channel_id":null,"latitude":35.6617,"longitude":139.742}
+--------------------------------------------------------------------------------
+{"longitude":"139.742","latitude":"35.6617","device_id":"100141","value":"22","unit":"cpm","height":"100","devicetype_id":"Pointcast V1","captured_at":"2022-05-31T08:54:58Z"}
+{"id":201539884,"user_id":759,"value":22.0,"unit":"cpm","location_name":null,"device_id":100141,"original_id":201539884,"measurement_import_id":null,"captured_at":"2022-05-31T08:54:58.000Z","height":100,"devicetype_id":"Pointcast V1","sensor_id":null,"station_id":null,"channel_id":null,"latitude":35.6617,"longitude":139.742}
+--------------------------------------------------------------------------------
+{"longitude":"139.742","latitude":"35.6617","device_id":"100141","value":"32","unit":"cpm","height":"100","devicetype_id":"Pointcast V1","captured_at":"2022-05-31T09:00:02Z"}
+{"id":201539979,"user_id":759,"value":32.0,"unit":"cpm","location_name":null,"device_id":100141,"original_id":201539979,"measurement_import_id":null,"captured_at":"2022-05-31T09:00:02.000Z","height":100,"devicetype_id":"Pointcast V1","sensor_id":null,"station_id":null,"channel_id":null,"latitude":35.6617,"longitude":139.742}
+--------------------------------------------------------------------------------

@@ -1,0 +1,1 @@
+/home/nick/public_html/news/wp-config.php

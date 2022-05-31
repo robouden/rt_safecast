@@ -1,0 +1,1 @@
+/home/koichi/public_html/cms/configuration.php

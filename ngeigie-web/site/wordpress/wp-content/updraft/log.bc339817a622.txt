@@ -1,0 +1,103 @@
+0000.004 () Opened log file at time: Thu, 12 May 2016 10:57:40 +0000 on http://realtime.safecast.org/wordpress
+0000.004 () UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.12.6 WP: 4.5.2 PHP: 5.5.9-1ubuntu4.14 (Linux ngeigie 2.6.32-042stab104.1 #1 SMP Thu Jan 29 12:58:41 MSK 2015 x86_64) MySQL: 5.5.47 WPLANG:  Server: Apache/2.4.7 (Ubuntu) safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 7.5M | 8M) multisite: N openssl: OpenSSL 1.0.1f 6 Jan 2014 mcrypt: N LANG: C ZipArchive::addFile: Y
+0000.004 () Free space on disk containing Updraft's temporary directory: 66495.3 MB
+0000.006 () Restore job started. Entities to restore: db. Restore options: {"updraft_restorer_replacesiteurl":false,"updraft_encryptionphrase":"","updraft_restorer_wpcore_includewpconfig":false}
+0000.021 () Will not delete any archives after unpacking them, because there was no cloud storage for this backup
+0000.024 () Entity: db
+0000.024 () restore_backup(backup_file=backup_2016-05-10-1149_SAFECAST_47d1788e6548-db.gz, type=db, info=a:0:{}, last_one=1)
+0000.025 () Unpacking backup...
+0000.047 () Database successfully unpacked
+0000.047 () Restoring the database (on a large site this can take a long time - if it times out (which can happen if your web hosting company has configured your hosting to limit resources) then you should use a different method, such as phpMyAdmin)...
+0000.047 () Using direct MySQL access; value of use_mysqli is: 1
+0000.156 () Tried to raise max_allowed_packet from 16 MB to 32 MB, but failed (Access denied; you need (at least one of) the SUPER privilege(s) for this operation, b:0;)
+0000.156 () Max packet size: 16 MB
+0000.156 () Entering maintenance mode
+0000.156 () Enabling Maintenance mode&#8230;
+0000.157 () <strong>Backup of:</strong> http://realtime.safecast.org/wordpress
+0000.158 () Site home: http://realtime.safecast.org
+0000.158 () Content URL: http://realtime.safecast.org/wp-content
+0000.158 () Uploads URL: http://realtime.safecast.org/wp-content/uploads
+0000.158 () Old table prefix: wp_
+0000.158 () Site information: multisite=0
+0000.301 () New table prefix: wp_
+0000.306 () Restoring table (InnoDB): wp_options
+0000.558 () Restoring prior UD configuration (table: wp_options; keys: 3)
+0000.569 () Restoring table (InnoDB): wp_users
+0000.591 () Restoring table (InnoDB): wp_usermeta
+0000.643 () Restoring table (InnoDB): wp_commentmeta
+0000.668 () Restoring table (InnoDB): wp_comments
+0000.696 () Restoring table (InnoDB): wp_links
+0000.714 () Restoring table (InnoDB): wp_postmeta
+0001.932 () Restoring table (InnoDB): wp_posts
+0002.035 () Restoring table (InnoDB): wp_term_relationships
+0002.038 () Database queries processed: 50 in 1.91 seconds
+0002.044 () Restoring table (InnoDB): wp_term_taxonomy
+0002.053 () Restoring table (InnoDB): wp_termmeta
+0002.058 () Restoring table (InnoDB): wp_terms
+0002.066 () Restoring table (InnoDB): wp_exportsreports_groups
+0002.074 () Restoring table (InnoDB): wp_exportsreports_log
+0002.084 () Restoring table (InnoDB): wp_exportsreports_reports
+0002.100 () Restoring table (MyISAM): wp_hl_twitter_replies
+0002.107 () Restoring table (MyISAM): wp_hl_twitter_tweets
+0002.119 () Restoring table (MyISAM): wp_hl_twitter_users
+0002.127 () Restoring table (InnoDB): wp_ngg_album
+0002.142 () Restoring table (InnoDB): wp_ngg_gallery
+0002.157 () Restoring table (InnoDB): wp_ngg_pictures
+0002.167 () Restoring table (InnoDB): wp_redirection_404
+0002.682 () Restoring table (InnoDB): wp_redirection_groups
+0002.692 () Restoring table (InnoDB): wp_redirection_items
+0002.723 () Restoring table (InnoDB): wp_redirection_logs
+0002.735 () Restoring table (InnoDB): wp_redirection_modules
+0002.744 () Restoring table (InnoDB): wp_simple_history
+0002.894 () Database queries processed: 100 in 2.77 seconds
+0003.688 () Restoring table (InnoDB): wp_simple_history_contexts
+0007.140 () Restoring table (InnoDB): wp_slim_stats_archive
+0007.164 () Restoring table (InnoDB): wp_wfBadLeechers
+0007.325 () Restoring table (InnoDB): wp_wfBlockedIPLog
+0007.332 () Restoring table (InnoDB): wp_wfBlocks
+0007.338 () Restoring table (InnoDB): wp_wfBlocksAdv
+0007.343 () Restoring table (InnoDB): wp_wfConfig
+0007.367 () Restoring table (InnoDB): wp_wfCrawlers
+0007.369 () Database queries processed: 150 in 7.25 seconds
+0007.395 () Restoring table (InnoDB): wp_wfFileMods
+0007.612 () Restoring table (InnoDB): wp_wfHits
+0007.960 () Restoring table (InnoDB): wp_wfHoover
+0007.967 () Restoring table (InnoDB): wp_wfIssues
+0007.977 () Restoring table (InnoDB): wp_wfLeechers
+0008.350 () Restoring table (InnoDB): wp_wfLockedOut
+0008.357 () Restoring table (InnoDB): wp_wfLocs
+0008.544 () Restoring table (InnoDB): wp_wfLogins
+0008.642 () Restoring table (InnoDB): wp_wfNet404s
+0008.652 () Restoring table (InnoDB): wp_wfReverseCache
+0008.660 () Restoring table (InnoDB): wp_wfScanners
+0008.669 () Restoring table (InnoDB): wp_wfStatus
+0008.803 () Restoring table (InnoDB): wp_wfThrottleLog
+0008.817 () Restoring table (InnoDB): wp_wfVulnScanners
+0008.823 () Restoring table (InnoDB): wp_wpdevart_calendars
+0008.829 () Restoring table (InnoDB): wp_wpdevart_dates
+0008.836 () Restoring table (InnoDB): wp_wpdevart_extras
+0008.837 () Database queries processed: 200 in 8.71 seconds
+0008.841 () Restoring table (InnoDB): wp_wpdevart_forms
+0008.849 () Restoring table (InnoDB): wp_wpdevart_reservations
+0008.854 () Restoring table (InnoDB): wp_wpdevart_themes
+0008.860 () Restoring table (InnoDB): wp_wpeditor_settings
+0008.871 () Restoring table (InnoDB): wp_wpgmza
+0008.892 () Restoring table (InnoDB): wp_wpgmza_categories
+0008.897 () Restoring table (InnoDB): wp_wpgmza_category_maps
+0008.906 () Restoring table (InnoDB): wp_wpgmza_maps
+0008.913 () Restoring table (InnoDB): wp_wpgmza_polygon
+0008.949 () Restoring table (InnoDB): wp_wpgmza_polylines
+0008.957 () Restoring table (InnoDB): wp_wppa_albums
+0008.965 () Restoring table (InnoDB): wp_wppa_comments
+0008.971 () Restoring table (InnoDB): wp_wppa_exif
+0008.977 () Restoring table (InnoDB): wp_wppa_index
+0008.982 () Restoring table (InnoDB): wp_wppa_iptc
+0008.991 () Restoring table (InnoDB): wp_wppa_photos
+0008.999 () Restoring table (InnoDB): wp_wppa_rating
+0009.006 () Restoring table (InnoDB): wp_wppa_session
+0009.012 () Unlocking database and leaving maintenance mode
+0009.012 () Disabling Maintenance mode&#8230;
+0009.012 () Finished: lines processed: 248 in 8.89 seconds
+0009.014 () Cleaning up rubbish...
+0009.064 () Restore successful!
+0009.065 () Restore successful

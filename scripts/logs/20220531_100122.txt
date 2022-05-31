@@ -1,0 +1,12 @@
+{"longitude":"136.24930","latitude":"35.26828","device_id":"100122","value":"14","unit":"cpm","height":"100","devicetype_id":"Pointcast V1","captured_at":"2022-05-31T08:48:38Z"}
+{"id":201539737,"user_id":9,"value":14.0,"unit":"cpm","location_name":null,"device_id":100122,"original_id":201539737,"measurement_import_id":null,"captured_at":"2022-05-31T08:48:38.000Z","height":100,"devicetype_id":"Pointcast V1","sensor_id":null,"station_id":null,"channel_id":null,"latitude":35.26828,"longitude":136.2493}
+--------------------------------------------------------------------------------
+{"longitude":"136.24930","latitude":"35.26828","device_id":"100122","value":"16","unit":"cpm","height":"100","devicetype_id":"Pointcast V1","captured_at":"2022-05-31T08:53:41Z"}
+{"id":201539861,"user_id":9,"value":16.0,"unit":"cpm","location_name":null,"device_id":100122,"original_id":201539861,"measurement_import_id":null,"captured_at":"2022-05-31T08:53:41.000Z","height":100,"devicetype_id":"Pointcast V1","sensor_id":null,"station_id":null,"channel_id":null,"latitude":35.26828,"longitude":136.2493}
+--------------------------------------------------------------------------------
+{"longitude":"136.24930","latitude":"35.26828","device_id":"100122","value":"16","unit":"cpm","height":"100","devicetype_id":"Pointcast V1","captured_at":"2022-05-31T08:58:43Z"}
+{"id":201539957,"user_id":9,"value":16.0,"unit":"cpm","location_name":null,"device_id":100122,"original_id":201539957,"measurement_import_id":null,"captured_at":"2022-05-31T08:58:43.000Z","height":100,"devicetype_id":"Pointcast V1","sensor_id":null,"station_id":null,"channel_id":null,"latitude":35.26828,"longitude":136.2493}
+--------------------------------------------------------------------------------
+{"longitude":"136.24930","latitude":"35.26828","device_id":"100122","value":"17","unit":"cpm","height":"100","devicetype_id":"Pointcast V1","captured_at":"2022-05-31T09:03:46Z"}
+{"id":201540051,"user_id":9,"value":17.0,"unit":"cpm","location_name":null,"device_id":100122,"original_id":201540051,"measurement_import_id":null,"captured_at":"2022-05-31T09:03:46.000Z","height":100,"devicetype_id":"Pointcast V1","sensor_id":null,"station_id":null,"channel_id":null,"latitude":35.26828,"longitude":136.2493}
+--------------------------------------------------------------------------------

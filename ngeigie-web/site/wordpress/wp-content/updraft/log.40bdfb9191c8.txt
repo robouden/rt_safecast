@@ -1,0 +1,15 @@
+0000.012 () Opened log file at time: Wed, 21 Jan 2015 11:37:21 +0000 on http://realtime.safecast.org/wordpress
+0000.012 () UpdraftPlus WordPress backup plugin (http://updraftplus.com): 1.9.46 WP: 4.1 PHP: 5.5.9-1ubuntu4.4 (Linux ngeigie 2.6.32-042stab090.5 #1 SMP Sat Jun 21 00:15:09 MSK 2014 x86_64) MySQL:  Server: Apache/2.4.7 (Ubuntu) safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 7.2M | 7.5M) multisite: N mcrypt: N LANG: C ZipArchive::addFile: Y
+0000.012 () Free space on disk containing Updraft's temporary directory: 73797.8 Mb
+0000.013 () Restore job started. Entities to restore: plugins
+0000.016 () Will not delete any archives after unpacking them, because there was no cloud storage for this backup
+0000.016 () Entity: plugins
+0000.016 () restore_backup(backup_file=backup_2014-12-27-1156_SAFECAST_30bbd94c9f6b-plugins.zip, type=plugins, info=a:2:{s:4:"path";s:45:"/var/www/ngeigie-web/site//wp-content/plugins";s:11:"description";s:7:"Plugins";}, last_one=1)
+0000.016 () Unpacking backup... (backup_2014-12-27-1156_SAFECAST_30bbd94c9f6b-plugins.zip, 16.5 Mb)
+0001.992 () Moving old data: filesystem method / updraft_dir is potentially possible
+0001.993 () Moving old data: can potentially use wp_filesystem method / -old
+0001.993 () Moving old data out of the way...
+0002.765 () Moving unpacked backup into place...
+0003.184 () Cleaning up rubbish...
+0003.224 () Restore successful!
+0003.225 () Restore successful

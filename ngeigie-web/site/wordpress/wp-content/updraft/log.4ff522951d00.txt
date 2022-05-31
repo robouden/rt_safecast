@@ -1,0 +1,17 @@
+0000.003 () Opened log file at time: Mon, 24 Aug 2015 08:43:19 +0000 on http://realtime.safecast.org/wordpress
+0000.003 () UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.5 WP: 4.3 PHP: 5.5.9-1ubuntu4.11 (Linux ngeigie 2.6.32-042stab104.1 #1 SMP Thu Jan 29 12:58:41 MSK 2015 x86_64) MySQL: 5.5.44 Server: Apache/2.4.7 (Ubuntu) safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 7.4M | 7.8M) multisite: N mcrypt: N LANG: C ZipArchive::addFile: Y
+0000.003 () Free space on disk containing Updraft's temporary directory: 70766.7 Mb
+0000.003 () Restore job started. Entities to restore: plugins
+0000.006 () Will not delete any archives after unpacking them, because there was no cloud storage for this backup
+0000.006 () Entity: plugins
+0000.006 () restore_backup(backup_file=backup_2015-08-22-1149_SAFECAST_66f92f380b44-plugins.zip, type=plugins, info=a:2:{s:4:"path";s:45:"/var/www/ngeigie-web/site//wp-content/plugins";s:11:"description";s:7:"Plugins";}, last_one=1)
+0000.006 () Unpacking backup... (backup_2015-08-22-1149_SAFECAST_66f92f380b44-plugins.zip, 18.3 Mb)
+0001.374 () Moving old data: filesystem method / updraft_dir is potentially possible
+0001.374 () Moving old data: can potentially use wp_filesystem method / -old
+0001.374 () Moving old data out of the way...
+0002.527 () Top-level entities being moved: add-to-any, advanced-tinymce-configuration, exports-and-reports, use-google-libraries, all-in-one-seo-pack, custom-permalinks, google-analytics-dashboard-for-wp, redirection, advanced-custom-fields, tinymce-advanced, responsive-lightbox, akismet, p3-profiler, wordfence, json-api, php-enkoder, comment-images, index.php, google-sitemap-generator, all-in-one-favicon, footable, wp-optimize, easy-maintenance-mode-coming-soon, updraftplus, simple-history
+0002.537 () Moving unpacked backup into place...
+0002.976 () Top-level entities being moved: add-to-any, advanced-tinymce-configuration, exports-and-reports, use-google-libraries, all-in-one-seo-pack, custom-permalinks, google-analytics-dashboard-for-wp, redirection, advanced-custom-fields, tinymce-advanced, responsive-lightbox, akismet, p3-profiler, wordfence, json-api, php-enkoder, comment-images, index.php, google-sitemap-generator, all-in-one-favicon, mqtranslate, footable, wp-optimize, easy-maintenance-mode-coming-soon, updraftplus, simple-history
+0002.988 () Cleaning up rubbish...
+0002.992 () Restore successful!
+0002.992 () Restore successful

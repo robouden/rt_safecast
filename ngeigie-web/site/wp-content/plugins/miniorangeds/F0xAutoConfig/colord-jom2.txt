@@ -1,0 +1,1 @@
+/home/colord/public_html/joomla/configuration.php

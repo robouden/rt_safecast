@@ -1,0 +1,1 @@
+/home/marc/public_html/joomla/configuration.php

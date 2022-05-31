@@ -1,0 +1,132 @@
+300002,30000,334,fixed_sensor,lnd_7318c
+300001,30000,334,fixed_sensor,lnd_7318u
+300022,30002,334,fixed_sensor,lnd_7318c
+300021,30002,334,fixed_sensor,lnd_7318u
+300061,30006,334,fixed_sensor,lnd_7318u
+300062,30006,334,fixed_sensor,lnd_7318c
+300101,30010,334,fixed_sensor,lnd_7318u
+300262,30026,334,fixed_sensor,lnd_7318c
+300261,30026,334,fixed_sensor,lnd_7318u
+300252,30025,334,fixed_sensor,lnd_7318c
+300251,30025,334,fixed_sensor,lnd_7318u
+300242,30024,334,fixed_sensor,lnd_7318c
+300241,30024,334,fixed_sensor,lnd_7318u
+300232,30023,334,fixed_sensor,lnd_7318c
+300231,30023,334,fixed_sensor,lnd_7318u
+300222,30022,334,fixed_sensor,lnd_7318c
+300221,30022,334,fixed_sensor,"LND 73126"
+300212,30021,334,fixed_sensor,lnd_7318c
+300211,30021,334,fixed_sensor,lnd_7318u
+300202,30020,334,fixed_sensor,lnd_7318c
+300201,30020,334,fixed_sensor,lnd_7318u
+300192,30019,334,fixed_sensor,lnd_7318c
+300191,30019,334,fixed_sensor,lnd_7318u
+300182,30018,334,fixed_sensor,lnd_7318c
+300181,30018,334,fixed_sensor,lnd_7318u
+300122,30012,334,fixed_sensor,lnd_7318c
+300121,30012,334,fixed_sensor,lnd_7318u
+300172,30017,334,fixed_sensor,lnd_7318c
+300171,30017,334,fixed_sensor,lnd_7318u
+300162,30016,334,fixed_sensor,lnd_7318c
+300161,30016,334,fixed_sensor,lnd_7318u
+300152,30015,334,fixed_sensor,lnd_7318c
+300151,30015,334,fixed_sensor,lnd_7318u
+300142,30014,334,fixed_sensor,lnd_7318c
+300141,30014,334,fixed_sensor,lnd_7318u
+300132,30013,334,fixed_sensor,lnd_7318c
+300131,30013,334,fixed_sensor,lnd_7318u
+300112,30011,334,fixed_sensor,lnd_7318c
+300111,30011,334,fixed_sensor,lnd_7318u
+300052,30005,334,fixed_sensor,lnd_7318c
+300051,30005,334,fixed_sensor,lnd_7318u
+300042,30004,334,fixed_sensor,lnd_7318c
+300041,30004,334,fixed_sensor,lnd_7318u
+300032,30003,334,fixed_sensor,lnd_7318u
+300031,30003,334,fixed_sensor,lnd_7318u
+300082,30008,334,fixed_sensor,lnd_7318c
+300081,30008,334,fixed_sensor,lnd_7318u
+300092,30009,334,fixed_sensor,lnd_7318c
+300091,30009,334,fixed_sensor,lnd_7318u
+300012,30001,334,fixed_sensor,lnd_7318c
+300011,30001,334,fixed_sensor,lnd_7318u
+300072,30007,334,fixed_sensor,lnd_7318c
+300071,30007,334,fixed_sensor,lnd_7318u
+200132,20013,120.5,fixed_sensor,"LND 7128"
+200131,20013,334,fixed_sensor,"LND 73126"
+201051,20105,960,fixed_sensor,LND78017
+178,17,334,fixed_sensor,LND7318
+200122,20012,120.5,fixed_sensor,"LND 7128"
+200121,20012,334,fixed_sensor,"LND 73126"
+100322,10032,120.5,fixed_sensor,"LND 7128"
+100412,10041,120.5,fixed_sensor,"LND 7128"
+100402,10040,120.5,fixed_sensor,"LND 7128"
+100422,10042,120.5,fixed_sensor,"LND 7128"
+100411,10041,334,fixed_sensor,"LND 73126"
+100401,10040,334,fixed_sensor,"LND 73126"
+100421,10042,334,fixed_sensor,"LND 73126"
+100321,10032,334,fixed_sensor,"LND 73126"
+100302,10030,120.5,fixed_sensor,"LND 7128"
+100301,10030,334,fixed_sensor,"LND 73126"
+74,7,334,fixed_sensor,LND7318
+200072,20007,120.5,fixed_sensor,LND7128
+200071,20007,334,fixed_sensor,LND7317
+200082,20008,120.5,fixed_sensor,LND7128
+200081,20008,334,fixed_sensor,LND7318
+200092,20009,120.5,fixed_sensor,LND7128
+200091,20009,334,fixed_sensor,LND7317
+157,15,334,fixed_sensor,LND7318
+100032,10003,120.5,fixed_sensor,LND7128
+100031,10003,334,fixed_sensor,LND7318
+100162,10016,120.5,fixed_sensor,LND7128
+100161,10016,334,fixed_sensor,LND7318
+100222,10022,120.5,fixed_sensor,LND7128
+100242,10024,120.5,fixed_sensor,LND7128
+100241,10024,334,fixed_sensor,LND7318
+100221,10022,334,fixed_sensor,LND7318
+100202,10020,120.5,fixed_sensor,LND7128
+100201,10020,334,fixed_sensor,LND7318
+100182,10018,120.5,fixed_sensor,LND7128
+100181,10018,334,fixed_sensor,LND7318
+100172,10017,120.5,fixed_sensor,LND7128
+100171,10017,334,fixed_sensor,LND7318
+100132,10013,120.5,fixed_sensor,LND7128
+100131,10013,334,fixed_sensor,LND7318
+100112,10011,120.5,fixed_sensor,LND7128
+100111,10011,334,fixed_sensor,LND7318
+100072,10007,120.5,fixed_sensor,LND7128
+100071,10007,334,fixed_sensor,LND7318
+100232,10023,120.5,fixed_sensor,LND7128
+100231,10023,334,fixed_sensor,LND7318
+200022,20002,120.5,fixed_sensor,LND7128
+200021,20002,334,fixed_sensor,LND7318
+63,6,120.5,fixed_sensor,LND7128
+201002,20100,334,fixed_sensor,LND73126
+201001,20100,334,fixed_sensor,LND73126
+100082,10008,120.5,fixed_sensor,LND7128
+100081,10008,334,fixed_sensor,LND7317
+100142,10014,120.5,fixed_sensor,LND7128
+100141,10014,334,fixed_sensor,LND7317
+200052,20005,120.5,fixed_sensor,LND7128
+200051,20005,334,fixed_sensor,LND7318
+100102,10010,120.5,fixed_sensor,LND7128
+100101,10010,334,fixed_sensor,LND7138
+100092,10009,120.5,fixed_sensor,LND7128
+100091,10009,334,fixed_sensor,LND7138
+100022,10002,334,fixed_sensor,LND7317
+100021,10002,120.5,fixed_sensor,LND7128
+200042,20004,120.5,fixed_sensor,LND71287
+200041,20004,334,fixed_sensor,LND7318
+200012,20001,120.5,fixed_sensor,LND7128
+200011,20001,334,fixed_sensor,LND7317
+100012,10001,120.5,fixed_sensor,LND7128
+100011,10001,334,fixed_sensor,LND7317
+100122,10012,120.5,fixed_sensor,LND712
+106,10,120.5,fixed_sensor,LND7128
+107,10,334,fixed_sensor,LND73126
+101,10,334,fixed_sensor,LND7318
+99,9,334,fixed_sensor,LND7317
+58,5,334,fixed_sensor,LND7318
+75,7,334,fixed_sensor,LND7317
+79,7,334,fixed_sensor,LND7317
+54,5,120.5,fixed_sensor,LND712
+40,4,334,fixed_sensor,LND7317

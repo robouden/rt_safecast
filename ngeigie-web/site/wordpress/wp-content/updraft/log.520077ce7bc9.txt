@@ -1,0 +1,39 @@
+0000.010 () Opened log file at time: Thu, 12 May 2016 11:03:14 +0000 on http://realtime.safecast.org/wordpress
+0000.011 () UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.12.6 WP: 4.5.2 PHP: 5.5.9-1ubuntu4.14 (Linux ngeigie 2.6.32-042stab104.1 #1 SMP Thu Jan 29 12:58:41 MSK 2015 x86_64) MySQL: 5.5.47 WPLANG:  Server: Apache/2.4.7 (Ubuntu) safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 7.4M | 8.3M) multisite: N openssl: OpenSSL 1.0.1f 6 Jan 2014 mcrypt: N LANG: C ZipArchive::addFile: Y
+0000.011 () Free space on disk containing Updraft's temporary directory: 66840.7 MB
+0000.012 () Restore job started. Entities to restore: plugins, themes, uploads, others. Restore options: {"updraft_restorer_replacesiteurl":false,"updraft_encryptionphrase":"","updraft_restorer_wpcore_includewpconfig":false}
+0000.029 () Will not delete any archives after unpacking them, because there was no cloud storage for this backup
+0000.034 () Entity: plugins
+0000.034 () restore_backup(backup_file=backup_2016-05-07-1148_SAFECAST_42c701139cc7-plugins.zip, type=plugins, info=a:2:{s:4:"path";s:45:"/var/www/ngeigie-web/site//wp-content/plugins";s:11:"description";s:7:"Plugins";}, last_one=)
+0000.035 () Unpacking backup... (backup_2016-05-07-1148_SAFECAST_42c701139cc7-plugins.zip, 25.6 Mb)
+0001.313 () Moving old data: filesystem method / updraft_dir is potentially possible
+0001.313 () Moving old data: can potentially use wp_filesystem method / -old
+0001.313 () Moving old data out of the way...
+0002.001 () Top-level entities being moved: wp-editor, booking-calendar, add-to-any, advanced-tinymce-configuration, exports-and-reports, use-google-libraries, all-in-one-seo-pack, custom-permalinks, google-analytics-dashboard-for-wp, redirection, advanced-custom-fields, acf-qtranslate, tinymce-advanced, ninjafirewall, akismet, p3-profiler, json-api, php-enkoder, comment-images, qtranslate-x, index.php, google-sitemap-generator, qtranslate, all-in-one-favicon, mqtranslate, footable, wp-optimize, wp-edit, easy-maintenance-mode-coming-soon, abd-dashboard-widget-manager, updraftplus, lightbox-plus, export-plus, simple-history, all-in-one-seo-pack-qtranslate-x
+0002.035 () Moving unpacked backup into place...
+0002.685 () Top-level entities being moved: wp-editor, booking-calendar, add-to-any, advanced-tinymce-configuration, exports-and-reports, use-google-libraries, all-in-one-seo-pack, custom-permalinks, google-analytics-dashboard-for-wp, redirection, advanced-custom-fields, acf-qtranslate, tinymce-advanced, ninjafirewall, akismet, p3-profiler, json-api, php-enkoder, comment-images, qtranslate-x, index.php, google-sitemap-generator, qtranslate, all-in-one-favicon, mqtranslate, footable, wp-optimize, wp-edit, easy-maintenance-mode-coming-soon, abd-dashboard-widget-manager, updraftplus, lightbox-plus, export-plus, simple-history, all-in-one-seo-pack-qtranslate-x
+0002.703 () Cleaning up rubbish...
+0002.716 () Entity: themes
+0002.716 () restore_backup(backup_file=backup_2016-05-07-1148_SAFECAST_42c701139cc7-themes.zip, type=themes, info=a:2:{s:4:"path";s:44:"/var/www/ngeigie-web/site//wp-content/themes";s:11:"description";s:6:"Themes";}, last_one=)
+0002.716 () Unpacking backup... (backup_2016-05-07-1148_SAFECAST_42c701139cc7-themes.zip, 6.4 Mb)
+0003.353 () Moving old data: filesystem method / updraft_dir is potentially possible
+0003.353 () Moving old data: can potentially use wp_filesystem method / -old
+0003.353 () Moving old data out of the way...
+0003.697 () Top-level entities being moved: twentyfifteen, safecast, index.php
+0003.705 () Moving unpacked backup into place...
+0004.191 () Top-level entities being moved: twentyfifteen, safecast, index.php
+0004.201 () Cleaning up rubbish...
+0004.231 () Entity: uploads
+0004.231 () restore_backup(backup_file=backup_2016-05-07-1148_SAFECAST_42c701139cc7-uploads.zip, type=uploads, info=a:2:{s:4:"path";s:45:"/var/www/ngeigie-web/site//wp-content/uploads";s:11:"description";s:7:"Uploads";}, last_one=)
+0004.231 () Unpacking backup... (backup_2016-05-07-1148_SAFECAST_42c701139cc7-uploads.zip, 46.1 Mb)
+0005.663 () Moving old data: filesystem method / updraft_dir is potentially possible
+0005.664 () Moving old data: can potentially use wp_filesystem method / -old
+0005.664 () Moving old data out of the way...
+0005.714 () Moving unpacked backup into place...
+0005.769 () Cleaning up rubbish...
+0005.814 () Entity: others
+0005.814 () restore_backup(backup_file=backup_2016-05-07-1148_SAFECAST_42c701139cc7-others.zip, type=others, info=a:2:{s:4:"path";s:37:"/var/www/ngeigie-web/site//wp-content";s:11:"description";s:6:"Others";}, last_one=1)
+0005.814 () Unpacking backup... (backup_2016-05-07-1148_SAFECAST_42c701139cc7-others.zip, 1.8 Mb)
+0005.904 () Cleaning up rubbish...
+0005.986 () Restore successful!
+0005.986 () Restore successful

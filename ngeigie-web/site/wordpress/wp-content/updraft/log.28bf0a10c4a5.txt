@@ -1,0 +1,8 @@
+0000.011 () Opened log file at time: Mon, 24 Aug 2015 08:42:58 +0000 on http://realtime.safecast.org/wordpress
+0000.011 () UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.5 WP: 4.3 PHP: 5.5.9-1ubuntu4.11 (Linux ngeigie 2.6.32-042stab104.1 #1 SMP Thu Jan 29 12:58:41 MSK 2015 x86_64) MySQL: 5.5.44 Server: Apache/2.4.7 (Ubuntu) safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 7.4M | 7.8M) multisite: N mcrypt: N LANG: C ZipArchive::addFile: Y
+0000.011 () Free space on disk containing Updraft's temporary directory: 70710.2 Mb
+0000.011 () Restore job started. Entities to restore: plugins
+0000.051 () Error message: Existing unremoved folders from a previous restore exist (please use the "Delete Old Directories" button to delete them before trying again): /var/www/ngeigie-web/site//wp-content/plugins-old
+0000.051 () Restore failed...
+0000.051 () Error message: Existing unremoved folders from a previous restore exist (please use the "Delete Old Directories" button to delete them before trying again): /var/www/ngeigie-web/site//wp-content/plugins-old
+0000.051 () Restore failed

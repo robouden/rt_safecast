@@ -1,0 +1,4 @@
+0000.000 (1) Opened log file at time: Sat, 27 Sep 2014 04:22:39 +0000 on http://realtime.safecast.org/wordpress
+0000.002 (1) UpdraftPlus WordPress backup plugin (http://updraftplus.com): 1.9.25 WP: 4.0 PHP: 5.5.9-1ubuntu4.4 (Linux ngeigie 2.6.32-042stab090.5 #1 SMP Sat Jun 21 00:15:09 MSK 2014 x86_64) MySQL:  Server: Apache/2.4.7 (Ubuntu) safe_mode: 0 max_execution_time: 900 memory_limit: 268435456 (used: 6M | 6.3M) multisite: N mcrypt: N LANG: C ZipArchive::addFile: Y
+0000.003 (1) Free space on disk containing Updraft's temporary directory: 75424 Mb
+0000.004 (1) This backup task began over 2 days ago: aborting (1411791759.7108, )

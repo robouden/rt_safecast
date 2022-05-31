@@ -1,0 +1,12 @@
+{"longitude":"-122.138333","latitude":"37.056757","device_id":"178","value":"49","unit":"cpm","captured_at":"2022-05-31T08:46:25Z"}
+{"id":201539673,"user_id":9,"value":49.0,"unit":"cpm","location_name":null,"device_id":178,"original_id":201539673,"measurement_import_id":null,"captured_at":"2022-05-31T08:46:25.000Z","height":null,"devicetype_id":null,"sensor_id":null,"station_id":null,"channel_id":null,"latitude":37.056757,"longitude":-122.138333}
+--------------------------------------------------------------------------------
+{"longitude":"-122.138333","latitude":"37.056757","device_id":"178","value":"41","unit":"cpm","captured_at":"2022-05-31T08:51:24Z"}
+{"id":201539815,"user_id":9,"value":41.0,"unit":"cpm","location_name":null,"device_id":178,"original_id":201539815,"measurement_import_id":null,"captured_at":"2022-05-31T08:51:24.000Z","height":null,"devicetype_id":null,"sensor_id":null,"station_id":null,"channel_id":null,"latitude":37.056757,"longitude":-122.138333}
+--------------------------------------------------------------------------------
+{"longitude":"-122.138333","latitude":"37.056757","device_id":"178","value":"47","unit":"cpm","captured_at":"2022-05-31T08:56:24Z"}
+{"id":201539907,"user_id":9,"value":47.0,"unit":"cpm","location_name":null,"device_id":178,"original_id":201539907,"measurement_import_id":null,"captured_at":"2022-05-31T08:56:24.000Z","height":null,"devicetype_id":null,"sensor_id":null,"station_id":null,"channel_id":null,"latitude":37.056757,"longitude":-122.138333}
+--------------------------------------------------------------------------------
+{"longitude":"-122.138333","latitude":"37.056757","device_id":"178","value":"46","unit":"cpm","captured_at":"2022-05-31T09:01:24Z"}
+{"id":201540005,"user_id":9,"value":46.0,"unit":"cpm","location_name":null,"device_id":178,"original_id":201540005,"measurement_import_id":null,"captured_at":"2022-05-31T09:01:24.000Z","height":null,"devicetype_id":null,"sensor_id":null,"station_id":null,"channel_id":null,"latitude":37.056757,"longitude":-122.138333}
+--------------------------------------------------------------------------------

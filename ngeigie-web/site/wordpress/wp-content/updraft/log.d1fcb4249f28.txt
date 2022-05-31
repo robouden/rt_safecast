@@ -1,0 +1,16 @@
+0000.031 () Opened log file at time: Thu, 04 May 2017 13:20:50 +0000 on http://rt.safecast.org/wordpress
+0000.031 () UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.12.40 WP: 4.7.4 PHP: 5.5.9-1ubuntu4.21 (apache2handler, Linux ngeigie 2.6.32-042stab117.14 #1 SMP Tue Aug 30 17:12:57 MSK 2016 x86_64) MySQL: 5.5.54 WPLANG: en_US Server: Apache/2.4.7 (Ubuntu) safe_mode: 0 max_execution_time: 900 memory_limit: 268435456 (used: 10.7M | 11M) multisite: N openssl: OpenSSL 1.0.1f 6 Jan 2014 mcrypt: N LANG: C ZipArchive::addFile: Y
+0000.031 () Free space on disk containing Updraft's temporary directory: 60881.5 MB
+0000.057 () Restore job started. Entities to restore: plugins. Restore options: {"updraft_restorer_replacesiteurl":false,"updraft_encryptionphrase":"","updraft_restorer_wpcore_includewpconfig":false}
+0000.134 () Entity: plugins
+0000.134 () restore_backup(backup_file=backup_2017-04-22-1113_SAFECAST_1fe25c326e97-plugins.zip, type=plugins, info=a:2:{s:4:"path";s:45:"/var/www/ngeigie-web/site//wp-content/plugins";s:11:"description";s:7:"Plugins";}, last_one=1)
+0000.134 () Unpacking backup... (backup_2017-04-22-1113_SAFECAST_1fe25c326e97-plugins.zip, 22.9 Mb)
+0001.558 () Moving old data: filesystem method / updraft_dir is potentially possible
+0001.558 () Moving old data: can potentially use wp_filesystem method / -old
+0001.558 () Moving old data out of the way...
+0002.873 () Top-level entities being moved: media-library-assistant, advanced-custom-fields, add-to-any, wp-optimize, use-google-libraries, database-browser, show-all-comments-in-one-page, google-analytics-dashboard-for-wp, index.php, updraftplus, acf-qtranslate, custom-permalinks, comment-images, qtranslate-x, siteguard, simple-history, debug-bar, all-in-one-favicon, lightbox-plus, all-in-one-seo-pack, wp-editor, json-api, google-sitemap-generator, custom-field-bulk-editor, miwoftp, post-duplicator, gotmls, advanced-tinymce-configuration, tinymce-advanced, search-and-replace, php-enkoder, akismet, my-wp-health-check, redirection
+0002.903 () Moving unpacked backup into place...
+0003.433 () Top-level entities being moved: media-library-assistant, advanced-custom-fields, add-to-any, wp-optimize, use-google-libraries, database-browser, show-all-comments-in-one-page, google-analytics-dashboard-for-wp, index.php, updraftplus, acf-qtranslate, custom-permalinks, comment-images, qtranslate-x, siteguard, simple-history, debug-bar, all-in-one-favicon, lightbox-plus, all-in-one-seo-pack, wp-editor, json-api, google-sitemap-generator, custom-field-bulk-editor, gotmls, advanced-tinymce-configuration, tinymce-advanced, search-and-replace, php-enkoder, akismet, my-wp-health-check, redirection
+0003.453 () Cleaning up rubbish...
+0003.548 () Restore successful!
+0003.548 () Restore successful

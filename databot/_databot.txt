@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "process_email.py", line 17, in <module>
+    from bgeigie_report import processFiles
+  File "/home/rob/Databot/bgeigie_report.py", line 30, in <module>
+    from mpl_toolkits.basemap import Basemap as Basemap
+ImportError: No module named basemap

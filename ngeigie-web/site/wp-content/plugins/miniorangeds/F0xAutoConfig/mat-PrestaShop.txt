@@ -1,0 +1,1 @@
+/home/mat/public_html/config/settings.inc.php

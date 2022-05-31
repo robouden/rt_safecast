@@ -1,0 +1,12 @@
+{"longitude":"139.93305","latitude":"37.4932","device_id":"101","value":"46","unit":"cpm","captured_at":"2022-05-31T08:48:46Z"}
+{"id":201539742,"user_id":9,"value":46.0,"unit":"cpm","location_name":null,"device_id":101,"original_id":201539742,"measurement_import_id":null,"captured_at":"2022-05-31T08:48:46.000Z","height":null,"devicetype_id":null,"sensor_id":null,"station_id":null,"channel_id":null,"latitude":37.4932,"longitude":139.93305}
+--------------------------------------------------------------------------------
+{"longitude":"139.93305","latitude":"37.4932","device_id":"101","value":"49","unit":"cpm","captured_at":"2022-05-31T08:53:46Z"}
+{"id":201539866,"user_id":9,"value":49.0,"unit":"cpm","location_name":null,"device_id":101,"original_id":201539866,"measurement_import_id":null,"captured_at":"2022-05-31T08:53:46.000Z","height":null,"devicetype_id":null,"sensor_id":null,"station_id":null,"channel_id":null,"latitude":37.4932,"longitude":139.93305}
+--------------------------------------------------------------------------------
+{"longitude":"139.93305","latitude":"37.4932","device_id":"101","value":"44","unit":"cpm","captured_at":"2022-05-31T08:58:46Z"}
+{"id":201539960,"user_id":9,"value":44.0,"unit":"cpm","location_name":null,"device_id":101,"original_id":201539960,"measurement_import_id":null,"captured_at":"2022-05-31T08:58:46.000Z","height":null,"devicetype_id":null,"sensor_id":null,"station_id":null,"channel_id":null,"latitude":37.4932,"longitude":139.93305}
+--------------------------------------------------------------------------------
+{"longitude":"139.93305","latitude":"37.4932","device_id":"101","value":"45","unit":"cpm","captured_at":"2022-05-31T09:03:46Z"}
+{"id":201540052,"user_id":9,"value":45.0,"unit":"cpm","location_name":null,"device_id":101,"original_id":201540052,"measurement_import_id":null,"captured_at":"2022-05-31T09:03:46.000Z","height":null,"devicetype_id":null,"sensor_id":null,"station_id":null,"channel_id":null,"latitude":37.4932,"longitude":139.93305}
+--------------------------------------------------------------------------------

@@ -1,0 +1,9 @@
+{"longitude":"139.742","latitude":"35.6617","device_id":"100149","value":"31","unit":"celcius","height":"100","captured_at":"2022-05-31T08:49:56Z"}
+{"id":201539767,"user_id":759,"value":31.0,"unit":"celcius","location_name":null,"device_id":100149,"original_id":201539767,"measurement_import_id":null,"captured_at":"2022-05-31T08:49:56.000Z","height":100,"devicetype_id":null,"sensor_id":null,"station_id":null,"channel_id":null,"latitude":35.6617,"longitude":139.742}
+--------------------------------------------------------------------------------
+{"longitude":"139.742","latitude":"35.6617","device_id":"100149","value":"31","unit":"celcius","height":"100","captured_at":"2022-05-31T08:55:00Z"}
+{"id":201539887,"user_id":759,"value":31.0,"unit":"celcius","location_name":null,"device_id":100149,"original_id":201539887,"measurement_import_id":null,"captured_at":"2022-05-31T08:55:00.000Z","height":100,"devicetype_id":null,"sensor_id":null,"station_id":null,"channel_id":null,"latitude":35.6617,"longitude":139.742}
+--------------------------------------------------------------------------------
+{"longitude":"139.742","latitude":"35.6617","device_id":"100149","value":"31","unit":"celcius","height":"100","captured_at":"2022-05-31T09:00:03Z"}
+{"id":201539981,"user_id":759,"value":31.0,"unit":"celcius","location_name":null,"device_id":100149,"original_id":201539981,"measurement_import_id":null,"captured_at":"2022-05-31T09:00:03.000Z","height":100,"devicetype_id":null,"sensor_id":null,"station_id":null,"channel_id":null,"latitude":35.6617,"longitude":139.742}
+--------------------------------------------------------------------------------

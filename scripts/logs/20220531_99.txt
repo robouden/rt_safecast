@@ -1,0 +1,9 @@
+{"longitude":"-70.872505","latitude":"42.812292","device_id":"99","value":"66","unit":"cpm","captured_at":"2022-05-31T08:49:33Z"}
+{"id":201539758,"user_id":9,"value":66.0,"unit":"cpm","location_name":null,"device_id":99,"original_id":201539758,"measurement_import_id":null,"captured_at":"2022-05-31T08:49:33.000Z","height":null,"devicetype_id":null,"sensor_id":null,"station_id":null,"channel_id":null,"latitude":42.812292,"longitude":-70.872505}
+--------------------------------------------------------------------------------
+{"longitude":"-70.872505","latitude":"42.812292","device_id":"99","value":"65","unit":"cpm","captured_at":"2022-05-31T08:54:32Z"}
+{"id":201539879,"user_id":9,"value":65.0,"unit":"cpm","location_name":null,"device_id":99,"original_id":201539879,"measurement_import_id":null,"captured_at":"2022-05-31T08:54:32.000Z","height":null,"devicetype_id":null,"sensor_id":null,"station_id":null,"channel_id":null,"latitude":42.812292,"longitude":-70.872505}
+--------------------------------------------------------------------------------
+{"longitude":"-70.872505","latitude":"42.812292","device_id":"99","value":"57","unit":"cpm","captured_at":"2022-05-31T08:59:32Z"}
+{"id":201539976,"user_id":9,"value":57.0,"unit":"cpm","location_name":null,"device_id":99,"original_id":201539976,"measurement_import_id":null,"captured_at":"2022-05-31T08:59:32.000Z","height":null,"devicetype_id":null,"sensor_id":null,"station_id":null,"channel_id":null,"latitude":42.812292,"longitude":-70.872505}
+--------------------------------------------------------------------------------

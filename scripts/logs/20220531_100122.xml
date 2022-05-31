@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:georss="http://www.georss.org/georss">
+  <updated>2022-05-31T09:03:46Z</updated>
+  <title>Safecast Device 100122 RSS feed</title>
+  <subtitle>Real-time radiation measured from device</subtitle>
+  <link href="http://api.safecast.org/"/>
+  <author><name>Safecast</name></author>
+  <id>urn:uuid:9b08f508-8874-d681-8c0d-ebced2873c13</id>
+  <icon>http://blog.safecast.org/favicon.ico</icon>
+
+<entry><id>urn:uuid:b426d3ee-1d86-81cf-a1f0-8dd728e89ced</id><title>14 CPM</title><updated>2022-05-31T08:48:38Z</updated><georss:point>35.26828 136.24930</georss:point><summary>14 CPM</summary></entry>
+<entry><id>urn:uuid:3f67547f-f579-3006-d292-1f81bbd328b3</id><title>16 CPM</title><updated>2022-05-31T08:53:41Z</updated><georss:point>35.26828 136.24930</georss:point><summary>16 CPM</summary></entry>
+<entry><id>urn:uuid:93464836-d759-6992-89b7-02db788bce49</id><title>16 CPM</title><updated>2022-05-31T08:58:43Z</updated><georss:point>35.26828 136.24930</georss:point><summary>16 CPM</summary></entry>
+<entry><id>urn:uuid:5b4b9044-8fdd-d49f-1336-4c5ce7f3e870</id><title>17 CPM</title><updated>2022-05-31T09:03:46Z</updated><georss:point>35.26828 136.24930</georss:point><summary>17 CPM</summary></entry>
+</feed>

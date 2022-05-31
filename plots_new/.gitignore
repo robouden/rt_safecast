@@ -1,0 +1,5 @@
+Makefile.config
+cache/*
+out/*
+tmp/*
+daily/*

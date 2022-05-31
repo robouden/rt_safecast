@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="/inc/main.css" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+		<title>Safecast fixed radiation sensors</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta http-equiv="Content-type" content="text/html; charset=UTF-8" />
+		<meta http-equiv="Content-Style-Type" content="text/css" />
+		<meta http-equiv="refresh" content="3600" />
+		<link rel="shortcut icon" href="/favicon.ico" />
+		<link rel="stylesheet" type="text/css" href="/inc/main.css" />
+
+	</head>
+	<body style="width: 100%; padding: 0; ">
+		<h1>Safecast 2nd generation fixed radiation sensors (nGeigie)</h1>
+		<div style="text-align:center;">
+			<img style="vertical-align: middle;" src="LIVE.png" alt="All live sensors" />
+			<a href="http://safecast.org/tilemap/?y=36.86&x=140.96&z=7&l=11&m=4"><img style="vertical-align: middle;" src="tilemap.png" alt="Safecast tilemap" /></a>
+		</div>
+		<hr />
+		<div style="text-align:center;">

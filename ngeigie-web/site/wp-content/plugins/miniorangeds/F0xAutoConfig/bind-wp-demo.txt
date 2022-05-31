@@ -1,0 +1,1 @@
+/home/bind/public_html/demo/wp-config.php

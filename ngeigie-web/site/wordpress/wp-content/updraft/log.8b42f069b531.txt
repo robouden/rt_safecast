@@ -1,0 +1,99 @@
+0000.055 () Opened log file at time: Thu, 22 Jan 2015 17:01:43 +0000 on http://realtime.safecast.org/wordpress
+0000.056 () UpdraftPlus WordPress backup plugin (http://updraftplus.com): 1.9.46 WP: 4.1 PHP: 5.5.9-1ubuntu4.4 (Linux ngeigie 2.6.32-042stab090.5 #1 SMP Sat Jun 21 00:15:09 MSK 2014 x86_64) MySQL:  Server: Apache/2.4.7 (Ubuntu) safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 6.4M | 8M) multisite: N mcrypt: N LANG: C ZipArchive::addFile: Y
+0000.056 () Free space on disk containing Updraft's temporary directory: 73814.9 Mb
+0000.056 () Restore job started. Entities to restore: plugins, db
+0000.060 () Will not delete any archives after unpacking them, because there was no cloud storage for this backup
+0000.060 () Entity: db
+0000.060 () restore_backup(backup_file=backup_2015-01-22-1613_SAFECAST_baa00e6de093-db.gz, type=db, info=a:0:{}, last_one=)
+0000.060 () Unpacking backup...
+0000.061 () Database successfully unpacked
+0000.061 () Restoring the database (on a large site this can take a long time - if it times out (which can happen if your web hosting company has configured your hosting to limit resources) then you should use a different method, such as phpMyAdmin)...
+0000.061 () Using direct MySQL access; value of use_mysqli is: 1
+0000.062 () Tried to raise max_allowed_packet from 16 Mb to 32 Mb, but failed (Access denied; you need (at least one of) the SUPER privilege(s) for this operation, b:0;)
+0000.063 () Max packet size: 16 Mb
+0000.063 () Entering maintenance mode
+0000.063 () Enabling Maintenance mode&#8230;
+0000.064 () Backup created by: 1.9.46
+0000.064 () <strong>Backup of:</strong> http://realtime.safecast.org/wordpress
+0000.064 () Site home: http://realtime.safecast.org
+0000.064 () Content URL: http://realtime.safecast.org/wp-content
+0000.064 () Old table prefix: wp_
+0000.065 () Site information: multisite=0
+0000.067 () New table prefix: wp_
+0000.241 () Restoring table (InnoDB): wp_options
+0000.396 () Restoring table (InnoDB): wp_users
+0000.449 () Restoring table (InnoDB): wp_usermeta
+0000.523 () Restoring table (InnoDB): wp_commentmeta
+0000.574 () Restoring table (InnoDB): wp_comments
+0000.625 () Restoring table (InnoDB): wp_links
+0000.633 () Restoring table (InnoDB): wp_postmeta
+0001.199 () Restoring table (InnoDB): wp_posts
+0001.260 () Restoring table (InnoDB): wp_term_relationships
+0001.275 () Restoring table (InnoDB): wp_term_taxonomy
+0001.282 () Restoring table (InnoDB): wp_terms
+0001.287 () Restoring table (InnoDB): wp_email_log
+0001.345 () Restoring table (MyISAM): wp_hl_twitter_replies
+0001.361 () Restoring table (MyISAM): wp_hl_twitter_tweets
+0001.366 () Restoring table (MyISAM): wp_hl_twitter_users
+0001.376 () Database queries processed: 50 in 1.31 seconds
+0001.391 () Restoring table (InnoDB): wp_ngg_album
+0001.423 () Restoring table (InnoDB): wp_ngg_gallery
+0001.446 () Restoring table (InnoDB): wp_ngg_pictures
+0001.453 () Restoring table (InnoDB): wp_simple_history
+0001.521 () Restoring table (InnoDB): wp_simple_history_contexts
+0001.818 () Restoring table (InnoDB): wp_slim_browsers
+0001.842 () Restoring table (InnoDB): wp_slim_content_info
+0001.854 () Restoring table (InnoDB): wp_slim_outbound
+0001.876 () Restoring table (InnoDB): wp_slim_screenres
+0001.902 () Restoring table (InnoDB): wp_slim_stats
+0002.376 () Restoring table (InnoDB): wp_slim_stats_archive
+0002.381 () Restoring table (InnoDB): wp_termmeta
+0002.385 () Restoring table (InnoDB): wp_wfBadLeechers
+0002.403 () Restoring table (InnoDB): wp_wfBlocks
+0002.416 () Restoring table (InnoDB): wp_wfBlocksAdv
+0002.432 () Restoring table (InnoDB): wp_wfConfig
+0002.464 () Restoring table (InnoDB): wp_wfCrawlers
+0002.474 () Restoring table (InnoDB): wp_wfFileMods
+0002.586 () Database queries processed: 100 in 2.52 seconds
+0002.633 () Restoring table (InnoDB): wp_wfHits
+0002.861 () Restoring table (InnoDB): wp_wfHoover
+0002.866 () Restoring table (InnoDB): wp_wfIssues
+0002.886 () Restoring table (InnoDB): wp_wfLeechers
+0002.949 () Restoring table (InnoDB): wp_wfLockedOut
+0002.954 () Restoring table (InnoDB): wp_wfLocs
+0002.959 () Restoring table (InnoDB): wp_wfLogins
+0003.009 () Restoring table (InnoDB): wp_wfNet404s
+0003.026 () Restoring table (InnoDB): wp_wfReverseCache
+0003.030 () Restoring table (InnoDB): wp_wfScanners
+0003.044 () Restoring table (InnoDB): wp_wfStatus
+0003.180 () Restoring table (InnoDB): wp_wfThrottleLog
+0003.184 () Restoring table (InnoDB): wp_wfVulnScanners
+0003.190 () Restoring table (InnoDB): wp_wpgmza
+0003.202 () Restoring table (InnoDB): wp_wpgmza_categories
+0003.207 () Restoring table (InnoDB): wp_wpgmza_category_maps
+0003.215 () Restoring table (InnoDB): wp_wpgmza_maps
+0003.242 () Restoring table (InnoDB): wp_wpgmza_polygon
+0003.258 () Restoring table (InnoDB): wp_wpgmza_polylines
+0003.264 () Restoring table (InnoDB): wp_wppa_albums
+0003.269 () Database queries processed: 150 in 3.21 seconds
+0003.270 () Restoring table (InnoDB): wp_wppa_comments
+0003.276 () Restoring table (InnoDB): wp_wppa_exif
+0003.280 () Restoring table (InnoDB): wp_wppa_index
+0003.285 () Restoring table (InnoDB): wp_wppa_iptc
+0003.294 () Restoring table (InnoDB): wp_wppa_photos
+0003.301 () Restoring table (InnoDB): wp_wppa_rating
+0003.315 () Restoring table (InnoDB): wp_wppa_session
+0003.319 () Leaving maintenance mode
+0003.319 () Disabling Maintenance mode&#8230;
+0003.320 () Finished: lines processed: 169 in 3.26 seconds
+0003.320 () Cleaning up rubbish...
+0003.328 () Entity: plugins
+0003.328 () restore_backup(backup_file=backup_2015-01-22-1613_SAFECAST_baa00e6de093-plugins.zip, type=plugins, info=a:2:{s:4:"path";s:45:"/var/www/ngeigie-web/site//wp-content/plugins";s:11:"description";s:7:"Plugins";}, last_one=1)
+0003.328 () Unpacking backup... (backup_2015-01-22-1613_SAFECAST_baa00e6de093-plugins.zip, 15.8 Mb)
+0004.145 () Moving old data: filesystem method / updraft_dir is potentially possible
+0004.145 () Moving old data: can potentially use wp_filesystem method / -old
+0004.145 () Moving old data out of the way...
+0004.503 () Moving unpacked backup into place...
+0004.868 () Cleaning up rubbish...
+0004.886 () Restore successful!
+0004.886 () Restore successful

